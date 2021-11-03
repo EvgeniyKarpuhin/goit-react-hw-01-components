@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styles from './Statistical.module.css';
+import styles from './statistical.module.css';
 
 const Statistics = ({ title, stats }) => (
   <section className={styles.statistics}>
